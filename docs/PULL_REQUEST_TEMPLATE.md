@@ -1,4 +1,4 @@
-Nombre de usuario
+# Nombre de usuario
 alfa [ ]
 zulu [ ]
 Denzel [ ]
@@ -16,7 +16,7 @@ eco [ ]
 bravo [ ]
 six [ ]
 
-tipo de actividad o rama
+# tipo de actividad o rama
 refactor[ ]
 software [ ]
 deploying [ ]
